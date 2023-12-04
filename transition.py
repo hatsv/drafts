@@ -3,7 +3,7 @@
 import curses
 import random
 import shutil
-import time  # Import the time module
+import time
 
 def get_terminal_size():
     try:
