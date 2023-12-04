@@ -7,3 +7,4 @@ two_pics_swap - two ascii pics swapping, creating an animation effect
 move_colorchange - picture horizontal movement ++random colour changing 
 transition.py - smooth transition through the screen
 random_dots_color.py - random dots changing color
+vertically.py - pic movement vertically 
